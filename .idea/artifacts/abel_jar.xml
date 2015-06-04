@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="abel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/abel_jar</output-path>
+    <root id="archive" name="abel.jar">
+      <element id="module-output" name="abel" />
+      <element id="extracted-dir" path="C:/F/jar 包/mysql-connector-java-5.1.26-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
